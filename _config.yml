@@ -23,7 +23,7 @@ email: info@profitx.com
 description: >- # this means to ignore newlines until "baseurl:"
   ProfitX Trading.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.profitx.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: profitx
 github_username:  profitx
 
