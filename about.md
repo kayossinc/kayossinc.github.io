@@ -1,3 +1,2 @@
-layout: page
-title: "PAGE-TITLE"
-permalink: /about/contact/
+# About Us
+ProfitX Trading
